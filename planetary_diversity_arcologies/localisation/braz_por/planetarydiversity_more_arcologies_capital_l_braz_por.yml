@@ -1,36 +1,36 @@
 ﻿l_braz_por:
 
 #Senate
- decision_pd_arcology_senate: "Build Senate Dome"
- decision_pd_arcology_senate_desc: "To meet the expanding needs of our nation, we must construct a monumental senate building on our capital, dedicating substantial space to enhance our government's administration capabilities."
+ decision_pd_arcology_senate: "Construir Cúpula do Senado"
+ decision_pd_arcology_senate_desc: "Para satisfazer as necessidades de nossa nação em expansão, nos devemos construir uma construção monumental para o senado em nossa capital, dedicando espaço considerável para melhorar nossas capacidades administrativas governamentais."
  decision_pd_arcology_senate_effects: "Adds the §Y$d_pd_senate_building$§! to this capital, exhanging potential distrticts to enhance our government's administration capabilities."
- d_pd_senate_building: "Senate Dome"
- d_pd_senate_building_desc: "The Senate Dome, a majestic symbol of governance, stands tall as the administrative heart where our civilization's future is forged."
+ d_pd_senate_building: "Cúpula do Senado"
+ d_pd_senate_building_desc: "A cúpula do senado, um símbolo majestoso de nossa governança, permanece como o  coração administrativo  onde o futuro de nossa civilização  é forjado."
 
 #Palace
- decision_pd_arcology_palace: "Build Palatial Complex"
- decision_pd_arcology_palace_desc: "To reflect the might and authority of our empire, we shall erect a colossal palace within our capital. This grand edifice will embody the power of our leadership and significantly augment our governmental administration."
+ decision_pd_arcology_palace: "Construir Complexo Palaciano"
+ decision_pd_arcology_palace_desc: "Para refletir  o poder e a autoridade de nosso império, nós devemos erguer um palácio colossal em nossa capital. Esse grande edificio irá emcorporar o poder de nossa liderança e aumentar significativamente  nossa administração governamental."
  decision_pd_arcology_palace_effects: "Adds the §Y$d_pd_palace_building$§! to this capital, exhanging potential distrticts to enhance our government's administration capabilities."
- d_pd_palace_building: "Palatial Complex"
- d_pd_palace_building_desc: "The Palace Complex, a grand symbol of our sovereignty and ruler's power, dominates the capital. It is the heart of governance, where our empire's destiny is shaped."
+ d_pd_palace_building: "Complexo Palaciano"
+ d_pd_palace_building_desc: "O complexo palaciano, o maior símbolo de nossa Soberania e o poder do governante, domina a capital. É o coração de nosso governo, onde o destino de nosso império é  moldado."
 
 #Headquarters
- decision_pd_arcology_headquarters: "Build Planetary Headquarters"
- decision_pd_arcology_headquarters_desc: "To showcase the power and influence of our megacorporation, we will construct a towering headquarters in this economic hub. This imposing structure will represent our leadership's strength and greatly enhance our galatic operations."
+ decision_pd_arcology_headquarters: "Construir Sede Planetária"
+ decision_pd_arcology_headquarters_desc: "Para Mostrar o  poder e influencia de nossa megacorporação, nós iremos construir uma sede imponente  neste centro económico. Essa estrutura imponente irá representar nossa força de liderança e melhorara Imensamente nossas operações galáticas."
  decision_pd_arcology_headquarters_effects: "Adds the §Y$d_pd_headquarters_building$§! to this capital, exhanging potential distrticts to enhance our corporation's administration capabilities."
- d_pd_headquarters_building: "Planetary Headquarters"
- d_pd_headquarters_building_desc: "A monumental symbol of dominanct, this headquarters towers over the planet. It serves as the nerve center for our operations, where the future of our megacorporation is crafted."
+ d_pd_headquarters_building: "Sede Planetária"
+ d_pd_headquarters_building_desc: "Um símbolo monumental de dominancia, Essas sedes se erguem sobre o planeta.  serve como o centro nervoso para nossa operações, onde o futuro de nossa megacorporação é gerado."
 
 #Hive Confluence Spire
- decision_pd_hive_confluence_spire: "Build Confluence Spire"
- decision_pd_hive_confluence_spire_desc: "To manifest the supremacy and reach of our collective, we shall grow a mighty confluence spire. This commanding structure will significantly amplify our operations across the stars."
+ decision_pd_hive_confluence_spire: "Construir Torre de Convergência"
+ decision_pd_hive_confluence_spire_desc: "Para manifestar a supremacia e o alcançe de nosso coletivo, nós devemos desenvolver uma poderosa torre de convergência. Essa Estrutura de comando irá amplificar substancialmente nossa operações através das estrelas."
  decision_pd_hive_confluence_spire_effects: "Adds the §Y$d_pd_confluence_spire_building$§! to this capital, exhanging potential distrticts to enhance our administration capabilities."
- d_pd_confluence_spire_building: "Confluence Spire"
- d_pd_confluence_spire_building_desc: "This spire stands supreme across the planet's surface, a towering beacon of control. It is the hub of our collective will, where our path among the stars is intricately woven."
+ d_pd_confluence_spire_building: "Torre de Convergência"
+ d_pd_confluence_spire_building_desc: "essa torre  permanece suprema em toda a superficie planetária, um imponente farol de controle. É o centro de nossa vontade coletiva, onde nosso caminho entre as estrelas é intricadamente tecido."
 
 #Machine Centralized Processing
- decision_pd_machine_centralized_processing: "Build Centralized Processing Unit"
- decision_pd_machine_centralized_processing_desc: "To assert our superiority and extend operational capacity, we will construct a Centralized Processing Unit. This structure will significantly boost our galactic functions."
+ decision_pd_machine_centralized_processing: "Construir Unidade de Processamento Centralizada"
+ decision_pd_machine_centralized_processing_desc: "Para afirmar nossa superioridade e extender nossa capacidade operacional, nós iremos construir uma Unidade de Processamento Centralizada. essa estrutura irá  melhorar consideravelmente nossas funções galáticas."
  decision_pd_machine_centralized_processing_effects: "Adds the §Y$d_pd_machine_centralized_processing$§! to this capital, exhanging potential distrticts to enhance our administration capabilities."
- d_pd_machine_centralized_processing: "Centralized Processing Unit"
- d_pd_machine_centralized_processing_desc: "This processing unit dominates the planetary surface and is the central node for our collective directives, intricately orchestrating our drones."
+ d_pd_machine_centralized_processing: "Unidade de Processamento Centralizada"
+ d_pd_machine_centralized_processing_desc: "Essa unidade de processamento  domina a superficie planetária e é o nodulo central de nossa diretivas coletivas, harmonizando intrincadamente nossos drones."
